@@ -1,0 +1,10 @@
+numpy
+networkx
+gensim
+joblib>=0.13.2
+tqdm
+pandas
+matplotlib
+seaborn
+cepy
+scipy
